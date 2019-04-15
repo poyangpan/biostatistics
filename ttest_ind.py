@@ -1,4 +1,4 @@
-# twp sample t test
+# tw sample t test
 from scipy import stats
 import numpy as np
 
