@@ -1,4 +1,4 @@
-# tw sample t test
+# two sample t test
 from scipy import stats
 import numpy as np
 
